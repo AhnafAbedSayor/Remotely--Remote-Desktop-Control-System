@@ -34,4 +34,4 @@ server/Start.java
 2)Start the client on your local machine:
 client/Start.java
 
-3) Enter Server's IP address and password to connect
+3)Enter Server's IP address and password to connect

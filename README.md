@@ -12,10 +12,14 @@ Features:
 
 Project Structure
 Remotely--Remote-Desktop-Control-System/
-│
+
+
 ├── client/          # Client application to view/control remote system
+
 ├── server/          # Server application that shares its screen
+
 ├── README.md        # Project documentation
+
 └── LICENSE
 
 
